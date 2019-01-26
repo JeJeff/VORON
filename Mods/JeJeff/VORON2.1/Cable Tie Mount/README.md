@@ -4,4 +4,4 @@ Design for 4mm cable ties.  M3 mounting hole, but also has an M4 variant if you'
 
 Small enough to attach to the bottom extrusions under the coroplast floor.  Quick to print, using minimal material.
 
-The 'flat' variants have a flat top, useful if you are zip tieing small PBCs (e.g. the FSR sensor board) in place.
+The 'flat' variants have a flat top, useful if you are zip tieing small PCBs (e.g. the FSR sensor board, or buck converters) in place.
